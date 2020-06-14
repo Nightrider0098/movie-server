@@ -2,7 +2,7 @@
 const express = require("express");
 const app = express();
 const path = require("path");
-const port = process.env.PORT || 5400;
+const port = process.env.PORT || 80;
 // const bodyParser = require("body-parser");
 // const session = require('express-session');
 // const passport = require('passport');
