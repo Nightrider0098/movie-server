@@ -16,6 +16,26 @@ movie_list.push({
     // links = {{}}
 });
 
+
+movie_list.push({
+
+    // href: "http://www.localhost:5400/movies?title=Money+Heist",
+    src: "https://1.bp.blogspot.com/-EWW_Fj5-R6A/XtC-_jBfTqI/AAAAAAAAAXQ/GfRVExSqH8UWKTmz5nmo8zsZlquXjS0sQCK4BGAsYHg/w480/Money-Heist-season-4-1.jpg",
+    title: "Money Heist Again (Season 1 &#8211; 4) Dual Audio {English-Spanish} 720p WeB-DL HD [350MB]",
+    discription: "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a cr&#8230;",
+    seasons: [13, 9, 8, 8],
+    disc_complete: "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan. A group of unique robbers assaults the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros.",
+    movie_name: "Money Heist",
+    type: "BollyWood Movies",
+    links: [["http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400","http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400"],
+    ["http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400"],
+    ["http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400"],
+    ["http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400", "http://localhost:5400"]]
+    // links = {{}}
+});
+
+
+
 movie_list.push({
 
     // href: "http://www.localhost:5400/movies?title=Money+Heist",
